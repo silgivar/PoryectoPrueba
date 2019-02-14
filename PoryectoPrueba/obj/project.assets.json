@@ -12710,11 +12710,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\PoryectoPrueba\\PoryectoPrueba\\PoryectoPrueba.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\GitHub\\PoryectoPrueba\\PoryectoPrueba\\PoryectoPrueba.csproj",
       "projectName": "PoryectoPrueba",
-      "projectPath": "C:\\Users\\Usuario\\source\\repos\\PoryectoPrueba\\PoryectoPrueba\\PoryectoPrueba.csproj",
+      "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\PoryectoPrueba\\PoryectoPrueba\\PoryectoPrueba.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\source\\repos\\PoryectoPrueba\\PoryectoPrueba\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Documents\\GitHub\\PoryectoPrueba\\PoryectoPrueba\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
